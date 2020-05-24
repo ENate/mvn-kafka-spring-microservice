@@ -1,4 +1,4 @@
-# mvn-kafka-spring-microservice
+# reactive-kafka-spring-microservice
 Backend:
 Kafka
 vertx
