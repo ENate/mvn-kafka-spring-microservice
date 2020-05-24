@@ -1,12 +1,12 @@
 # reactive-kafka-spring-microservice
 * Backend:
-Kafka
+* Kafka
 vertx
 springboot
 JPA
 Hibernate
 
-Front:
-Reat
-Angular
-Boostrap
+* Front:
+*Reat
+*Angular
+*Boostrap
